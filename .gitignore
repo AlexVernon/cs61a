@@ -96,6 +96,7 @@ ENV/
 ok
 discussions/
 quizzes/
+slides/
 
 # Visual Studio Code
 .vscode/
